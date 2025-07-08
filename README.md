@@ -1,3 +1,9 @@
+# Dark Modern for Zed
+
+This tries to be an unopinionated port of Dark Modern Theme to Zed.
+
+Although a great effort I was not fully satisfied with [this approach](https://github.com/kcamcam/vscode_dark_modern.zed).
+
 ## Note
 
 This Theme was mainly developed using AI, the initial commit is completely generated, all following commits patch the theme to reach the desired layout.

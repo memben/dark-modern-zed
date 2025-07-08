@@ -1,0 +1,7 @@
+id = "dark-modern"
+name = "Dark Modern"
+version = "0.0.1"
+schema_version = 1
+authors = ["memben"]
+description = "Dark Modern VSCode Port"
+repository = "https://github.com/memben/dark-modern-zed"
